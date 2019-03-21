@@ -1,0 +1,4017 @@
+D conv1_input Variable containing:
+1.00000e-04 *
+  1.5815
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-05 *
+  1.3945
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+1.00000e-05 *
+  4.5681
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+1.00000e-05 *
+  5.0146
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+1.00000e-05 *
+  5.9384
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+1.00000e-05 *
+  3.6121
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+1.00000e-04 *
+  3.3229
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-05 *
+  5.2252
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+1.00000e-04 *
+  2.2928
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+1.00000e-04 *
+  2.0983
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+1.00000e-04 *
+  2.8984
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+1.00000e-04 *
+  4.4319
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+1.00000e-03 *
+  2.3040
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-05 *
+  9.8788
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+1.00000e-04 *
+  3.7143
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+1.00000e-04 *
+  3.0915
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+1.00000e-04 *
+  4.7933
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+1.00000e-03 *
+  3.9419
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 1.6296
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  1.6898
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 0.1608
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 0.1053
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+1.00000e-02 *
+  9.9538
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 2.5291
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 4.8571
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  1.6989
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 0.7665
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 0.5224
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 0.4725
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 6.1179
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 30.5927
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  1.4895
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2829
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.4568
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1518
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 15.0990
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.8885
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  3.0480
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2497
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5772
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1744
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.6463
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.7709
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  3.3420
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2501
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5786
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1695
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.9296
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.5722
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  6.0375
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2508
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5194
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1682
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.5865
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.5579
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-03 *
+  8.0852
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2507
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5253
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1682
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.5373
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4873
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  6.1659
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2487
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5268
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1682
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.3526
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6729
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1193
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6520
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1203
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6518
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1203
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+epoch:   0 | D_loss: 27.6310 | G_loss 0.0000 | likelihood 331.2144, max 366.2904, min 299.2534
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+D conv1_input Variable containing:
+ 42.4158
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv1_label Variable containing:
+1.00000e-02 *
+  8.6516
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv2 Variable containing:
+ 2.2461
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv3 Variable containing:
+ 1.5282
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv4 Variable containing:
+ 1.1684
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+ D conv5 Variable containing:
+ 16.1204
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+

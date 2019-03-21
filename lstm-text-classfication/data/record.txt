@@ -1,0 +1,1 @@
+python main.py --epochs 100 --cuda-able > 001.txt
